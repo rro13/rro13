@@ -4,5 +4,5 @@ Sou graduando em Química pela Universidade Federal de Minas Gerais (UFMG), e tr
 
 Conhecimento em:
 
-- Python;
-- JavaScript.
+- Python (iniciante);
+- JavaScript (iniciante).
